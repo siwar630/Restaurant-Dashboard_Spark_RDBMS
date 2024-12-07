@@ -20,5 +20,10 @@ Avant de commencer, assurez-vous d'avoir installé les logiciels suivants :
 1. **Clonez le dépôt :**
 
    ```bash
-   git clone https://github.com/votre-utilisateur/restaurant_app.git
-   cd restaurant_app
+   git clone https://github.com/siwar630/Restaurant-Dashboard_Spark_RDBMS.git
+   cd Restaurant-Dashboard_Spark_RDBMS
+   
+2. **Démarrez le serveur :**
+   
+   ```bash
+   node server.js
